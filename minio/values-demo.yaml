@@ -1,0 +1,7 @@
+rootUser: "admin"
+rootPassword: "Pouettt54"
+
+replicas: 3
+
+persistence:
+  size: 20Gi
