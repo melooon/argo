@@ -5,3 +5,7 @@ replicas: 3
 
 persistence:
   size: 20Gi
+
+resources:
+  requests:
+    memory: 2Gi
